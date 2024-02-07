@@ -1,0 +1,6 @@
+{
+    "name": "Automation",
+    "references": [
+        "Editor/Scripts"
+    ]
+}
